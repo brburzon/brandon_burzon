@@ -4,7 +4,7 @@ title: About
 ---
 Hi there!
 
-My name is Brandon, and I work as a software developer engineer for Amazon Inc in Seattle, WA. If you have ever shopped online, then you probably have heard of us!
+My name is Brandon Burzon, and I work as a software developer engineer for Amazon Inc in Seattle, WA. If you have ever shopped online, then you probably have heard of us!
 
 Anyways, back to my story. 
 

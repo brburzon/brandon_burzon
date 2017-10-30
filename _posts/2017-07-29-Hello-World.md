@@ -5,10 +5,10 @@ author: "Brandon Burzon"
 categories: journal
 tags: [welcome]
 image:
-  feature: cards.jpg
-  teaser: cards-teaser.jpg
-  credit:
-  creditlink:
+  feature: code.png
+  teaser: code.png
+  credit: https://www.canva.com
+  creditlink: https://www.canva.com
 ---
 
 Hi there!

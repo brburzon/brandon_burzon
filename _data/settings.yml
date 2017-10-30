@@ -12,9 +12,9 @@ disqus:
 google-ID: 'UA-103649042-1'
 
 menu:
-- {name: 'About', url: 'about.html'}
 - {name: 'Blog', url: 'blog.html'}
 - {name: 'Contact', url: 'contact.html'}
+- {name: 'About', url: 'about.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/brburzon'}
